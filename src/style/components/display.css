@@ -1,0 +1,12 @@
+.display{
+    width: 95%;
+    background: rgb(15, 15, 15);
+    padding: 1.2rem;
+    border: 2px solid gray;
+    font-size: 2rem;
+    font-family: monospace;
+    text-align: center;
+    color: whitesmoke;
+    font-style: italic;
+
+}
